@@ -1,0 +1,3 @@
+D:/cpp23-tutorial/cmake-build-debug/CMakeFiles/C___23.dir
+D:/cpp23-tutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cpp23-tutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
